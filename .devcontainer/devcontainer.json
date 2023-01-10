@@ -1,0 +1,14 @@
+{
+   "name": "r109-sae15",
+   "hostRequirements": {
+   		"cpus": 4,
+   		"memory": "8gb",
+   		"storage": "32gb" 
+    },
+    // "remoteUser": "vscode",
+    "extensions": [
+		"ms-vscode.live-server",
+		"MS-vsliveshare.vsliveshare",
+    "github.github-vscode-theme"
+    ]
+}
