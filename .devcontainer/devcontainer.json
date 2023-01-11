@@ -8,6 +8,7 @@
     // "remoteUser": "vscode",
     "extensions": [
 		"ms-vscode.live-server",
-    "github.github-vscode-theme"
+    "github.github-vscode-theme",
+    "jaybarnes.chatgpt-vscode-plugin"
     ]
 }
