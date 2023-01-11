@@ -1,7 +1,6 @@
 {
 
     "recommendations": ["ms-vscode.live-server",
-    "MS-vsliveshare.vsliveshare",
     "github.github-vscode-theme"],
 
 }
