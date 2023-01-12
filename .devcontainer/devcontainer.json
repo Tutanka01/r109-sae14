@@ -9,6 +9,7 @@
     "extensions": [
 		"ms-vscode.live-server",
     "github.github-vscode-theme",
-    "jaybarnes.chatgpt-vscode-plugin"
+    "jaybarnes.chatgpt-vscode-plugin",
+    "tomoki1207.pdf"
     ]
 }
