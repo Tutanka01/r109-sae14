@@ -1,0 +1,45 @@
+body {
+    background-color: darkkhaki;
+}
+
+h2 {
+    color: #5e0f45;
+    font-family: Arial;
+}
+
+p {
+    color: #5e0f45;
+}
+
+div.a {
+    position: relative;
+    width: 400px;
+    height: 200px;
+  }
+  
+div.b {
+    position: absolute;
+    left: auto;
+    width: 100px;
+    height: 120px;
+  } 
+  
+div.c {
+    position: absolute;
+    left: 150px;
+    width: 800px;
+    height: 120px;
+  }
+
+a {
+    width: 100px;
+    position: fixed;
+    text-align: left;
+    padding: 0 10px;
+    max-width: 500px;
+    background-color: white;
+    text-decoration: none;
+
+    left: 1%;
+    height: 2%;
+}
